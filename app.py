@@ -16,9 +16,6 @@ st.set_page_config(layout="wide", page_title="Personal Carbon Calculator")
 st.title("🌍 Carbon Footprint Calculator")
 
 
-
-
-
 #inputs
 st.subheader("Your country")
 country = st.selectbox("Select", ["India"])
